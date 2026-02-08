@@ -29,10 +29,4 @@
     "@types/react-dom": "19.0.3",
     "baseline-browser-mapping": "^2.9.19"
   },
-  "pnpm": {
-    "onlyBuiltDependencies": [
-      "bcrypt",
-      "sharp"
-    ]
-  }
 }
